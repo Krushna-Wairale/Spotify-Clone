@@ -33,3 +33,7 @@ Understand how to replicate popular UIs
 
 Practice semantic HTML and organized CSS
 
+🔗 Project Link
+
+[Click here to view the live project]( https://krushna-wairale.github.io/Spotify-Clone/)
+
